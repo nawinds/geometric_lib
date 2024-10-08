@@ -186,3 +186,17 @@
   ```
   
 # История изменения проекта
+## Коммиты
+
+| Название                      | Хеш      | Автор                           | Дата             | Описание                                  |
+|-------------------------------|----------|---------------------------------|------------------|-------------------------------------------|
+| circle docs                   | c067f4fc | Nikita Aksenov <me@nawinds.top> | 28/09/2024 09:38 | Добавлена документация для круга          |
+| triangle docs                 | 27c6ec58 | Nikita Aksenov <me@nawinds.top> | 28/09/2024 09:31 | Добавлена документация для треугольника   |
+| rectangle docs                | d5d20b39 | Nikita Aksenov <me@nawinds.top> | 28/09/2024 09:21 | Добавлена документация для прямоугольника |
+| square docs                   | b8c6acd2 | Nikita Aksenov <me@nawinds.top> | 28/09/2024 09:12 | Добавлена документация для квадрата       |
+| General solution description  | 916e5e94 | Nikita Aksenov <me@nawinds.top> | 28/09/2024 09:03 | Изменен rectangle.md                      |
+| modified rectangle.py         | 1d53844e | Nikita Aksenov <me@nawinds.top> | 25/09/2024 09:02 | Изменен rectangle.md                      |
+| added triangle.py             | 06fc55e6 | Nikita Aksenov <me@nawinds.top> | 25/09/2024 09:01 | Добавлен triangle.md                      |
+| added rectangle.py            | 74f5242e | Nikita Aksenov <me@nawinds.top> | 25/09/2024 08:59 | Добавлен rectangle.md                     |
+| L-03: Docs added              | d078c8d9 | smartiqa <info@smartiqa.ru>     | 04/03/2021 14:55 | Добавлен README.md                        |
+| L-03: Circle and square added | 8ba9aeb3 | smartiqa <info@smartiqa.ru>     | 04/03/2021 14:54 | Добавлены circle.py и square.py           |
