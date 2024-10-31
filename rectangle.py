@@ -12,6 +12,8 @@ def area(a: float, b: float) -> float:
     Пример вызова:
         s = area(5, 2)  # В s запишется 10
     """
+    if a < 0 or b < 0:
+        raise ValueError("Sides cannot be negative")
     return a * b 
 
 
@@ -29,5 +31,6 @@ def perimeter(a: float, b: float) -> float:
     Пример вызова:
         p = perimeter(5, 2)  # В p запишется 14
     """
+    if a < 0 or b < 0:
+        raise ValueError("Sides cannot be negative")
     return 2 * (a + b)
-
