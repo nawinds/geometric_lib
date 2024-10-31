@@ -222,6 +222,8 @@
 
 | Название                                                                                                                  | Хеш      | Автор                           | Дата             | Описание                                  |
 |---------------------------------------------------------------------------------------------------------------------------|----------|---------------------------------|------------------|-------------------------------------------|
+| [added unit tests](https://github.com/nawinds/geometric_lib/commit/95d2bc138b8b3419dec4b8dabdae9cb4e2b6045b)              | 95d2bc13 | Nikita Aksenov <me@nawinds.top> | 31/10/2024 17:35 | Добавлены unit тесты                      |
+| [reformatted docs](https://github.com/nawinds/geometric_lib/commit/c6784675fba1dabb1329315164b6c9f867dc3c0c)              | c6784675 | Nikita Aksenov <me@nawinds.top> | 23/10/2024 09:51 | Изменен формат документации функций       |
 | [project history](https://github.com/nawinds/geometric_lib/commit/2e803c3aec84e69bee0a85c664aa9c1db5579a26)               | 2e803c3a | Nikita Aksenov <me@nawinds.top> | 23/10/2024 09:46 | Добавлена история проекта                 |
 | [circle docs](https://github.com/nawinds/geometric_lib/commit/c067f4fcadc268edf2e97c8c4bfc96fdf246017a)                   | c067f4fc | Nikita Aksenov <me@nawinds.top> | 28/09/2024 09:38 | Добавлена документация для круга          |
 | [triangle docs](https://github.com/nawinds/geometric_lib/commit/27c6ec589b1ecf641de9e38c4bd59f781becc0a0)                 | 27c6ec58 | Nikita Aksenov <me@nawinds.top> | 28/09/2024 09:31 | Добавлена документация для треугольника   |
